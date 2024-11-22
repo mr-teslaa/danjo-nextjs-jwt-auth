@@ -53,8 +53,8 @@ This repository contains a Django backend and a Next.js frontend. The backend pr
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo.git
-cd your-repo
+git clone https://github.com/mr-teslaa/djano-nextjs-jwt-auth
+cd djano-nextjs-jwt-auth
 ```
 
 ---
